@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Movie_CD_store>
+<movies>
+    <movie1 category="classical">
+        <MovieTitle>ABC</MovieTitle>
+        <ActorName>Actor1</ActorName>
+        <ReleaseYear>2001</ReleaseYear>
+    </movie1>
+
+    <movie2 category="horror">
+        <MovieTitle>Xyz</MovieTitle>
+        <ActorName>Actor2</ActorName>
+        <ReleaseYear>2005</ReleaseYear>
+    </movie2>
+
+    <movie3 category="action">
+        <MovieTitle>PQR</MovieTitle>
+        <ActorName>Actor3</ActorName>
+        <ReleaseYear>1998</ReleaseYear>
+    </movie3>
+</movies>
+</Movie_CD_store>

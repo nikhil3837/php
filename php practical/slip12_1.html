@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>
+        JavaScript prompt() method
+    </title>
+    <script>
+        function fun() {
+            var a = prompt("Exams are near, have you started preparing for?");
+            
+            if (a == null) {
+                document.getElementById("para").innerHTML = "you pressed cancel";
+            }
+            else if(a==""){
+                document.getElementById("para").innerHTML = "Please enter something";
+            }
+            else{
+                document.getElementById("para").innerHTML =" "+a;
+            }
+        }  
+    </script>
+</head>
+
+<body>
+    <h2>
+        Example of the JavaScript prompt() method
+    </h2>
+
+    <button onclick="fun()">
+        Click me
+    </button>
+    <p id="para"></p>
+
+
+</body>
+
+</html>

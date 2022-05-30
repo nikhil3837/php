@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<Book>
+    <Historical_Fiction>
+        <BookName>Wolf Hall</BookName>
+        <Author> Hilary Mental</Author>
+        <price> 700</price>
+    </Historical_Fiction>
+    <Classics>
+        <BookName>Pride</BookName>
+        <Author> Jane Austine</Author>
+        <price> 1000</price>
+    </Classics>
+    <Mystery>
+        <BookName>The Silent Patient</BookName>
+        <Author> Alex</Author>
+        <price> 500</price>
+
+    </Mystery>
+    <Adventure>
+        <BookName>Treasure Island</BookName>
+        <Author> Robert</Author>
+        <price> 2000</price>
+    </Adventure>
+    <Fantasy>
+        <BookName>A Game of Thrones</BookName>
+        <Author> George</Author>
+        <price> 3000</price>
+
+    </Fantasy>
+</Book>

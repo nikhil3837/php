@@ -1,0 +1,14 @@
+body{
+    background-color: blue;
+
+}
+h1{
+    color: red;
+    font-family: Verdana;
+    font-size: 10;
+}
+p{
+    Color:green;
+    Font-family:Monospace;
+    font-size: 10;
+}

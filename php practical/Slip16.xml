@@ -1,0 +1,31 @@
+<?xml version="1.0" ?>
+<Employee>
+    <Emp1>
+        <EmpName> Aman</EmpName>
+        <Designation> directors</Designation>
+        <Salary>10000</Salary>
+    </Emp1>
+
+    <Emp2>
+        <EmpName> Mandar</EmpName>
+        <Designation> officers</Designation>
+        <Salary>80000</Salary>
+    </Emp2>
+
+    <Emp3>
+        <EmpName> Ganesh</EmpName>
+        <Designation> Managers</Designation>
+        <Salary>60000</Salary>
+    </Emp3>
+    <Emp4>
+        <EmpName> Sarthak</EmpName>
+        <Designation> Developer</Designation>
+        <Salary>60000</Salary>
+    </Emp4>
+    <Emp5>
+        <EmpName> Sudhanshu</EmpName>
+        <Designation> Chief Financial Officer</Designation>
+        <Salary>50000</Salary>
+    </Emp5>
+
+</Employee>

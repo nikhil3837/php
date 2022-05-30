@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<Item>
+    <Item1>
+        <ItemName>milk</ItemName>
+        <ItemPrice>35</ItemPrice>
+        <Quantity>3</Quantity>
+    </Item1>
+
+    <Item2>
+        <ItemName>sugar</ItemName>
+        <ItemPrice>40</ItemPrice>
+        <Quantity>10</Quantity>
+    </Item2>
+
+    <Item3>
+        <ItemName>peanut</ItemName>
+        <ItemPrice>110</ItemPrice>
+        <Quantity>4</Quantity>
+    </Item3>
+
+    <Item4>
+        <ItemName>rice</ItemName>
+        <ItemPrice>100</ItemPrice>
+        <Quantity>2</Quantity>
+    </Item4>
+
+    <Item5>
+        <ItemName>wheat</ItemName>
+        <ItemPrice>60</ItemPrice>
+        <Quantity>10</Quantity>
+    </Item5>
+</Item>
